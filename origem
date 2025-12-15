@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Catalogo Origem Vida Natural"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/catalogo-origem.git
+git push -u origin main
